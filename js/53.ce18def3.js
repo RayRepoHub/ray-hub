@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkproject_r"]=self["webpackChunkproject_r"]||[]).push([[53],{9053:function(e,t,n){n.r(t),n.d(t,{default:function(){return l}});var r=function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("div",[e._v("树形控件")])},u=[],c={name:"TreeTemplate",props:{},components:{},computed:{},data(){return{title:"树形控件"}},async mounted(){},methods:{}},a=c,o=n(1001),s=(0,o.Z)(a,r,u,!1,null,"23b0d3ae",null),l=s.exports}}]);
+//# sourceMappingURL=53.ce18def3.js.map
